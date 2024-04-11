@@ -7,7 +7,7 @@ Hi, I’m Kelsey! 👋🏻
 Some projects I’ve worked on 👩🏻‍💻
 - 📊 Workforce Management Application - PHP, HTML, CSS, JavaScript, MySQL
 - ✈️ Travel Agency Website - HTML, CSS, JavaScript
-- 💼 Portfolio Website - Wordpress Elementor
+- 💼 Portfolio Website - Next.js Tailwind CSS
 
 
 🔗 All of my projects are available at [kelseyrajher.com](kelseyrajher.com)
