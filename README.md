@@ -9,7 +9,7 @@ Some projects I’ve worked on 👩🏻‍💻
 - 💼 Portfolio Website - Next.js, Tailwind CSS
 
 
-🔗 All of my projects are available at [kelseyrajher.com](kelseyrajher.com)
+🔗 All of my projects are available at https://www.kelseyrajher.com
 
 Languages and Tools:
 <p align="left"> 
